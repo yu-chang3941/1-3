@@ -1,3 +1,3 @@
 import streamit as st
-st. 나는 공주다
-st. 너는 왕자다
+st. title('나는 왕이다')
+st. write('나는 공주다')
